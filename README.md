@@ -22,7 +22,6 @@ Se implementó un módulo que permite registrar ingresos por UEN y calcular auto
 - Peso estratégico de cada servicio
 
 ### Captura
-![Portafolio y Ventas](imagenes/ventas.png)
 
 ---
 
@@ -35,7 +34,6 @@ Se agregó un módulo para comparar:
 - Cálculo de participación relativa
 
 ### Captura
-![Competencia](imagenes/competencia.png)
 
 ---
 
@@ -54,16 +52,4 @@ Y propone decisiones estratégicas como:
 - MANTENER
 
 ### Captura
-![Matriz BCG](imagenes/bcg.png)
 
----
-
-## Tecnologías Utilizadas
-- HTML
-- CSS
-- JavaScript
-
----
-
-## Conclusión
-El sistema PETI permite la toma de decisiones estratégicas basadas en datos de mercado, ventas y competencia, automatizando el análisis BCG para la gestión empresarial.
